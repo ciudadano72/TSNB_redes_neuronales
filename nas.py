@@ -24,7 +24,7 @@ from goto import with_goto
 # que a patrones y adaptabilidad se refiere a traves de una clase que la determina.
 #
 #Pragma: Actualmente se han incorporado al Research: @n4ivenom
-
+# Se necesita instalar el modulo < goto > externo para la recursividad
 # @info
 # @class: Clase --neuronal artificial
 
