@@ -5,14 +5,12 @@ import lib_nas
 #import Lib_NAS_Rnas_IA_
 
 # _bias_2_4 v2.0
-# estructura Neuronal 2 bits --4 patrones de adaptacion 
-#       
+# estructura Neuronal 2 bits --4 patrones de adaptacion     
 # @autor:Jose Luis Prado Seoane ---IT Security Researcher & Developer
-#
 # Research: Teoria de Sistemas Neuronales (I.A) --TSNB 808565016
 # Redes Neuronales y su convergencia hacia modelos e implementaciones orientadas a la
 # Ciberseguridad
-
+#
 # Descripcion: **********************************************************************************
 # Estructura neuronal adaptativa de 2 bits dimensional de (1)-->(n+1) patrones variables en los 
 # imputs. El secuenciador es externo a la propia estructura y establece un Netlist para poder
