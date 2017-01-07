@@ -4,7 +4,6 @@ import lib_nas
 # _bias_2_4 v1 --Check local 
 # Estructura de polarizacion 1/2 Byte --caso de uso practico (3)
 # @autor:Jose Luis Prado Seoane ---IT Security Researcher & Developer
-#
 # Research: Teoria de Sistemas Neuronales (I.A) --TSNB 
 # Redes Neuronales y su convergencia hacia modelos e implementaciones orientadas a la
 # Ciberseguridad
