@@ -10,7 +10,6 @@ from goto import with_goto
 #nas.py 
 # Neuron artificial binaria dimensional 
 # @autor:Jose Luis Prado Seoane ---IT Security Researcher & Developer
-#
 # Research: Teoria de Sistemas Neuronales (I.A) --TSNB
 # Redes Neuronales y su convergencia hacia modelos e implementaciones orientadas a la
 # Ciberseguridad
