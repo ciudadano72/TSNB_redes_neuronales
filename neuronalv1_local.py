@@ -4,10 +4,8 @@ import sys
 import nas
 
 # neutonal_local v1.0 --check
-# estructura Neuronal 4 bits --16 patrones de adaptacion 
-#       
+# estructura Neuronal 4 bits --16 patrones de adaptacion      
 # @autor:Jose Luis Prado Seoane ---IT Security Researcher & Developer
-#
 # Research: Teoria de Sistemas Neuronales (I.A) --TSNB
 # Redes Neuronales y su convergencia hacia modelos e implementaciones orientadas a la
 # Ciberseguridad
