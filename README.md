@@ -1,5 +1,6 @@
 # TSNB Redes Neuronales
 (RESEARCH) Teoría de Sistemas Neuronales (I.A) --TSNB --implementaciones
+REPOSITORIO PARTE (I)--RESEARCH
 
 Redes Neuronales y su convergencia hacia modelos e implementaciones orientadas a la Ciberseguridad
 
