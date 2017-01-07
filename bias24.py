@@ -4,7 +4,7 @@ import sys
 import lib_nas
 #import Lib_NAS_Rnas_IA_
 
-# _bias_2_4
+# _bias_2_4 v2.0
 # estructura Neuronal 2 bits --4 patrones de adaptacion 
 #       
 # @autor:Jose Luis Prado Seoane ---IT Security Researcher & Developer
