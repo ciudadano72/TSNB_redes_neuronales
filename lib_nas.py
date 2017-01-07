@@ -2,7 +2,7 @@
 import nas
 #import Lib_NAS_Rnas_IA_
 
-#lib_nas.py 
+#lib_nas.py --simple v.2.0
 #libreria Neuronal basica --Lib 
 # ---PARTE PARCIAL:01/0001/2011 --Pertene a libreria: Lib_NAS_Rnas_IA_ (460 funciones)
 # -----Lib_NAS_Rnas_IA_ :ROOT
