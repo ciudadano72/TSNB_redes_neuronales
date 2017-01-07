@@ -8,7 +8,6 @@ import lib_nas
 # estructura Neuronal 2 bits --4 patrones de adaptacion 
 #       
 # @autor:Jose Luis Prado Seoane ---IT Security Researcher & Developer
-# @_ciudadano72 ---Follow_me
 #
 # Research: Teoria de Sistemas Neuronales (I.A) --TSNB 808565016
 # Redes Neuronales y su convergencia hacia modelos e implementaciones orientadas a la
