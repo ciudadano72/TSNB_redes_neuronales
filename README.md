@@ -1,5 +1,5 @@
 # TSNB_redes_neuronales
-Teoría de Sistemas Neuronales (I.A) --TSNB
+Teoría de Sistemas Neuronales (I.A) --TSNB.
 Redes Neuronales y su convergencia hacia modelos e implementaciones orientadas a la # Ciberseguridad
 
 Estudio técnico teórico-práctico (Research) para el desarrollo e implementación de redes neuronales simétricas binarias para la resolución de problemas de computación en el ámbito específico de la Seguridad de Informática. Su aplicación industrial permite modelizar en tiempo real sistemas basados en patrones para la detección de amenazas, detección de firmas, modelos heurísticos, tratamiento de gran cantidad de datos y amplio abanico de posibilidades dentro del cómputo actual.El modelizado de redes neuronales no es excluyente de otros sistema actuales de Inteligencia Artificial, al contrario son convergentes en lo que a objetivos en la búsqueda de resolución de problemas se refiere. La modelación neuronal intenta ser no secuencial, a diferencia de otros modelos de cómputo actuales y su principal característica es su naturaleza “paralela” en base a la recursividad que representa su modelo o modelos de aprendizaje, en el caso de este Research es del tipo supervisado y distribuido.
