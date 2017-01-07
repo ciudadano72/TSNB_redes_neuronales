@@ -3,6 +3,15 @@
 import sys
 import nas
 
+# neutonal_local v1.0 --check
+# estructura Neuronal 4 bits --16 patrones de adaptacion 
+#       
+# @autor:Jose Luis Prado Seoane ---IT Security Researcher & Developer
+#
+# Research: Teoria de Sistemas Neuronales (I.A) --TSNB
+# Redes Neuronales y su convergencia hacia modelos e implementaciones orientadas a la
+# Ciberseguridad
+
 #func_memory
 def _memory_(id_mode):
     def s0():global _learn_;i0=0;i1=0;i2=0;i3=1;_learn_= str(i0) + str(i1) + str(i2) + str(i3) #AND
