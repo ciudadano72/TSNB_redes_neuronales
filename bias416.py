@@ -4,10 +4,8 @@ import lib_nas
 #import Lib_NAS_Rnas_IA_
 
 # _bias_4_16 v3.0
-# estructura Neuronal 4 bits --16 patrones de adaptacion 
-#       
+# estructura Neuronal 4 bits --16 patrones de adaptacion   
 # @autor:Jose Luis Prado Seoane ---IT Security Researcher & Developer
-#
 # Research: Teoria de Sistemas Neuronales (I.A) --TSNB
 # Redes Neuronales y su convergencia hacia modelos e implementaciones orientadas a la
 # Ciberseguridad
